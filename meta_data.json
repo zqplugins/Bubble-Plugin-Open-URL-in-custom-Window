@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "web scraping"
+    },
+    "demo_page": "https://ezcodedemo4.bubbleapps.io/version-test/open_url",
+    "description": "Open a new Window with custom settings. Set the width, height and left, top position.\nOpen in new window/tab or replace the current window. Set a URL or html code.\nYou can also close the opened window via workflow.\n\n🔔 The most risk-free way to try out this plugin is to subscribe to it. If you unsubscribe a few days later you will be charged on pro-rata basis, so for example if the plugin monthly price is $5 then you’d pay only 17¢ per day ($5/30 days)!\n\n🔔 Get our 10 Top Plugins Bundle with 10 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- #1 Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- #1 AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone input Number with formatting\n- Advanced Multi Uploader\n- Video player\n- Dynamic Height & Width of Elements\n\nGet it here: https://zeroqode.com/bundle\n\nDEMO & DOCUMENTATION\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1602439847278x837168249283200400/open-window-with-height-adjustment.png",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Open URL in custom Window",
+    "plugin_instructions": "Feel free to contact us for any inquiries and we’ll be happy to find a solution for your ideas: \n\n"
+}
