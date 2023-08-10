@@ -1,0 +1,13 @@
+{
+    "category": "plugins",
+    "display": "Close Window",
+    "fields": {
+        "AAN": {
+            "caption": "Will close newly opened window",
+            "editor": "Label",
+            "name": "info",
+            "rank": 0
+        }
+    },
+    "type": "client_side"
+}
